@@ -1,2 +1,2 @@
-# ML
-ML study
+# Machine Learning
+ML study, data science specialization
